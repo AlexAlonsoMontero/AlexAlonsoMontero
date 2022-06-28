@@ -24,7 +24,7 @@ Siempre stoy dipsuesto a colaborar en cualquier proyecto. Así como a compartiar
 <hr>
 <br>
 
-## Technologías & Herramientas:
+<!-- ## Technologías & Herramientas:
 
 <br>
 
@@ -42,7 +42,7 @@ Siempre stoy dipsuesto a colaborar en cualquier proyecto. Así como a compartiar
 
 [![PL](https://img.shields.io/badge/Programming%20Language-JavaScript-blue?style=for-the-badge&logo=javascript&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/JavaScript)
 
-[![PL](https://img.shields.io/badge/Programming%20Language-Node.JS-blue?style=for-the-badge&logo=nodedotjs&logoWidth=20&logoColor=white&labelColor=555555)](https://nodejs.org)
+[![PL](https://img.shields.io/badge/Programming%20Language-Node.JS-blue?style=for-the-badge&logo=nodedotjs&logoWidth=20&logoColor=white&labelColor=555555)](https://nodejs.org) -->
 
 <!-- [![PL](https://img.shields.io/badge/Programming%20Language-Python%203.x-blue?style=for-the-badge&logo=python&logoWidth=20&logoColor=white&labelColor=555555)](https://www.python.org) -->
 
@@ -53,18 +53,18 @@ Siempre stoy dipsuesto a colaborar en cualquier proyecto. Así como a compartiar
 
 <!-- [![LIB](https://img.shields.io/badge/JAVA%20ORM%20Library-Hibernate-blue?style=for-the-badge&logo=hibernate&logoWidth=20&logoColor=white&labelColor=555555)](https://hibernate.org) -->
 
-[![FW](https://img.shields.io/badge/NodeJS%20Framework-Express-blue?style=for-the-badge&logo=nodedotjs&logoWidth=20&logoColor=white&labelColor=555555)](https://expressjs.com)
+<!-- [![FW](https://img.shields.io/badge/NodeJS%20Framework-Express-blue?style=for-the-badge&logo=nodedotjs&logoWidth=20&logoColor=white&labelColor=555555)](https://expressjs.com)
 
 [![WT](https://img.shields.io/badge/Web%20Technology-JWT%20JSON%20Web%20Tokens-blue?style=for-the-badge&logo=jsonwebtokens&logoWidth=20&logoColor=white&labelColor=555555)](https://jwt.io)
 
-[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20&logoColor=white&labelColor=555555)](https://code.visualstudio.com)
+[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20&logoColor=white&labelColor=555555)](https://code.visualstudio.com) -->
 
 <!-- [![IDE](https://img.shields.io/badge/IDE-Eclipse-blue?style=for-the-badge&logo=eclipse-ide&logoWidth=20&logoColor=white&labelColor=555555)](https://www.eclipse.org) -->
 
-
+<!-- 
 [![DB](https://img.shields.io/badge/Database-PostgreSql-blue?style=for-the-badge&logo=postgresql&logoWidth=20&logoColor=white&labelColor=555555)](https://www.postgresql.org)
 
-[![DB](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mySql&logoWidth=20&logoColor=white&labelColor=555555)](https://www.mysql.com)
+[![DB](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mySql&logoWidth=20&logoColor=white&labelColor=555555)](https://www.mysql.com) -->
 
 
 <!-- [![TOOL](https://img.shields.io/badge/Tools%20--%20Management-Apache%20Maven-blue?style=for-the-badge&logo=apachemaven&logoWidth=20&logoColor=white&labelColor=555555)](https://maven.apache.org) -->
@@ -79,25 +79,15 @@ Siempre stoy dipsuesto a colaborar en cualquier proyecto. Así como a compartiar
 
 <!-- [![WEBSERVER](https://img.shields.io/badge/Web%20Server-Eclipse%20Jetty-blue?style=for-the-badge&logo=eclipsejetty&logoWidth=20&logoColor=white&labelColor=555555)](https://www.eclipse.org/jetty) -->
 
-[![OS](https://img.shields.io/badge/OS-Windows%2010-blue?style=for-the-badge&logo=windows&logoWidth=20&logoColor=white&labelColor=555555)](https://www.microsoft.com/windows)
+<!-- [![OS](https://img.shields.io/badge/OS-Windows%2010-blue?style=for-the-badge&logo=windows&logoWidth=20&logoColor=white&labelColor=555555)](https://www.microsoft.com/windows)
 
 [![OS](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoWidth=20&logoColor=white&labelColor=555555)](https://www.linux.org)
 
-[![OS](https://img.shields.io/badge/OS-Ubuntu%20Desktop-blue?style=for-the-badge&logo=ubuntu&logoWidth=20&logoColor=white&labelColor=555555)](https://ubuntu.com)
+[![OS](https://img.shields.io/badge/OS-Ubuntu%20Desktop-blue?style=for-the-badge&logo=ubuntu&logoWidth=20&logoColor=white&labelColor=555555)](https://ubuntu.com) -->
 
 ## :postbox: Contacta conmigo
 
 [:email: email](mailto:lxalonso@gmail.com)
 
-[:postbox: linkedin] (https://www.linkedin.com/in/programador-full-stack-javascript-alejandro-alonso?original_referer=)
+[:postbox: linkedin](https://www.linkedin.com/in/programador-full-stack-javascript-alejandro-alonso?original_referer=)
 
-[![Sololearn](https://img.shields.io/badge/Sololearn-139ef1?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=ffc881&labelColor=028de0)](https://www.sololearn.com/profile/20275480)
-[![CodeWars](https://img.shields.io/badge/Codewars-303133?style=for-the-badge&logo=codewars&logoWidth=20&logoColor=c70039&labelColor=192022)](https://www.codewars.com/r/sN6LTQ)
-[![Goodreads](https://img.shields.io/badge/Goodreads-e9e5cd?style=for-the-badge&logo=goodreads&logoWidth=20&logoColor=553b08&labelColor=d8d4bc)](https://www.goodreads.com/davorpa)
-[![Discord](https://img.shields.io/badge/Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white&labelColor=5554c1)](https://discordapp.com/users/863159490186969089)
-
-:mailbox_with_no_mail: Contact Me On
-
-[![Sololearn](https://img.shields.io/badge/-Sololearn-139ef1?style=for-the-badge&logo=sololearn&logoWidth=20&logoColor=ffc881&labelColor=028de0)](https://www.sololearn.com/profile/20275480)
-[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoWidth=20&logoColor=white&labelColor=1b94c9)](https://t.me/davorpatech)
-[![Discord](https://img.shields.io/badge/-Discord-6665d2?style=for-the-badge&logo=discord&logoWidth=20&logoColor=white&labelColor=5554c1)](https://discordapp.co
