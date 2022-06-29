@@ -12,82 +12,98 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Hola!, soy Alex y disfruto programando
+# Hola! 👋, soy Alex y disfruto programando
 
 Hola, soy Alex, una persona apasionada por la programación,en este perfil de GitHub podrás ver los trabajos que estoy añadiendo a mi portfolio.
 
-El lenguange en el que más programo es el JavaScript y Typescript,  como framework para el front-end el que más uso es React pero conozco Angular, y para back el NodeJS y express aunque también conozco NestJS.
+El lenguange en el que más programo es el JavaScript y Typescript, como framework para el front-end el que más uso es React pero conozco Angular, y para back el NodeJS y express aunque también conozco NestJS.
 
 Siempre stoy dipsuesto a colaborar en cualquier proyecto. Así como a compartiar conocimientos.
 
-<hr>
-<br>
-
-<!-- ## Technologías & Herramientas:
-
-<br>
+<hr style="margin: 15px">
 
 
-[![WT](https://img.shields.io/badge/Web%20Technology-HTML5-blue?style=for-the-badge&logo=html5&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/HTML)
+## Technologías & Herramientas:
 
-[![WT](https://img.shields.io/badge/Web%20Technology-CSS3-blue?style=for-the-badge&logo=css3&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/CSS)
+<p align="center" style="margin: 15px">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="padding: 15px"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://ant.design/docs/react/getting-started" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://angular.io" target="_blank" rel="noreferrer" style="padding: 15px"> 
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> 
+    </a>
+</p>
 
-[![WT](https://img.shields.io/badge/Web%20Technology-JavaScript-blue?style=for-the-badge&logo=javascript&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/JavaScript)
+<p align="center">
+        <a href="https://jestjs.io" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+    </a>
+    <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="padding: 15px" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer" style="padding: 15px">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+</p>
 
 
-[![FW](https://img.shields.io/badge/CSS%20Framework-Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoWidth=20&logoColor=white&labelColor=555555)](https://getbootstrap.com/docs/3.3)
+<p align="center">    
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding: 15px"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>     
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="padding: 15px">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+</p>
 
+<hr style="margin: 15px">
 
+<p align="center" style="margin:35px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexalonsomontero&show_icons=true&locale=en&layout=compact" alt="alexalonsomontero" />
+</p>
 
-[![PL](https://img.shields.io/badge/Programming%20Language-JavaScript-blue?style=for-the-badge&logo=javascript&logoWidth=20&logoColor=white&labelColor=555555)](https://developer.mozilla.org/docs/Web/JavaScript)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexalonsomontero&show_icons=true&locale=en" alt="alexalonsomontero" />
+ </p>
 
-[![PL](https://img.shields.io/badge/Programming%20Language-Node.JS-blue?style=for-the-badge&logo=nodedotjs&logoWidth=20&logoColor=white&labelColor=555555)](https://nodejs.org) -->
+<hr style="margin: 25px">
 
-<!-- [![PL](https://img.shields.io/badge/Programming%20Language-Python%203.x-blue?style=for-the-badge&logo=python&logoWidth=20&logoColor=white&labelColor=555555)](https://www.python.org) -->
-
-
-<!-- [![FW](https://img.shields.io/badge/JAVA%20Framework-Spring-blue?style=for-the-badge&logo=spring&logoWidth=20&logoColor=white&labelColor=555555)](https://spring.io) -->
-
-<!-- [![FW](https://img.shields.io/badge/JAVA%20Framework-Structs%20MVC-blue?style=for-the-badge&logo=apache&logoWidth=20&logoColor=white&labelColor=555555)](https://struts.apache.org) -->
-
-<!-- [![LIB](https://img.shields.io/badge/JAVA%20ORM%20Library-Hibernate-blue?style=for-the-badge&logo=hibernate&logoWidth=20&logoColor=white&labelColor=555555)](https://hibernate.org) -->
-
-<!-- [![FW](https://img.shields.io/badge/NodeJS%20Framework-Express-blue?style=for-the-badge&logo=nodedotjs&logoWidth=20&logoColor=white&labelColor=555555)](https://expressjs.com)
-
-[![WT](https://img.shields.io/badge/Web%20Technology-JWT%20JSON%20Web%20Tokens-blue?style=for-the-badge&logo=jsonwebtokens&logoWidth=20&logoColor=white&labelColor=555555)](https://jwt.io)
-
-[![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoWidth=20&logoColor=white&labelColor=555555)](https://code.visualstudio.com) -->
-
-<!-- [![IDE](https://img.shields.io/badge/IDE-Eclipse-blue?style=for-the-badge&logo=eclipse-ide&logoWidth=20&logoColor=white&labelColor=555555)](https://www.eclipse.org) -->
-
-<!-- 
-[![DB](https://img.shields.io/badge/Database-PostgreSql-blue?style=for-the-badge&logo=postgresql&logoWidth=20&logoColor=white&labelColor=555555)](https://www.postgresql.org)
-
-[![DB](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mySql&logoWidth=20&logoColor=white&labelColor=555555)](https://www.mysql.com) -->
-
-
-<!-- [![TOOL](https://img.shields.io/badge/Tools%20--%20Management-Apache%20Maven-blue?style=for-the-badge&logo=apachemaven&logoWidth=20&logoColor=white&labelColor=555555)](https://maven.apache.org) -->
-
-<!-- [![TOOL](https://img.shields.io/badge/Tools%20--%20Management-Apache%20Ant-blue?style=for-the-badge&logo=apacheant&logoWidth=20&logoColor=white&labelColor=555555)](https://ant.apache.org) -->
-
-<!-- [![TOOL](https://img.shields.io/badge/Tools%20--%20Version%20Control-Git%20SCM-blue?style=for-the-badge&logo=git&logoWidth=20&logoColor=white&labelColor=555555)](https://git-scm.com) -->
-
-<!-- [![TOOL](https://img.shields.io/badge/Tools%20--%20Version%20Control-SVN%20Subversion-blue?style=for-the-badge&logo=subversion&logoWidth=20&logoColor=white&labelColor=555555)](https://subversion.apache.org) -->
-
-<!-- [![WEBSERVER](https://img.shields.io/badge/Web%20Server-Apache%20Tomcat-blue?style=for-the-badge&logo=apachetomcat&logoWidth=20&logoColor=white&labelColor=555555)](http://tomcat.apache.org) -->
-
-<!-- [![WEBSERVER](https://img.shields.io/badge/Web%20Server-Eclipse%20Jetty-blue?style=for-the-badge&logo=eclipsejetty&logoWidth=20&logoColor=white&labelColor=555555)](https://www.eclipse.org/jetty) -->
-
-<!-- [![OS](https://img.shields.io/badge/OS-Windows%2010-blue?style=for-the-badge&logo=windows&logoWidth=20&logoColor=white&labelColor=555555)](https://www.microsoft.com/windows)
-
-[![OS](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoWidth=20&logoColor=white&labelColor=555555)](https://www.linux.org)
-
-[![OS](https://img.shields.io/badge/OS-Ubuntu%20Desktop-blue?style=for-the-badge&logo=ubuntu&logoWidth=20&logoColor=white&labelColor=555555)](https://ubuntu.com) -->
 
 ## :postbox: Contacta conmigo
 
 [:email: email](mailto:lxalonso@gmail.com)
 
 [:postbox: linkedin](https://www.linkedin.com/in/programador-full-stack-javascript-alejandro-alonso?original_referer=)
-
