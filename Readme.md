@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 
 # Hola! 👋, soy Alex y disfruto programando
 
-Hola, soy Alex, una persona apasionada por la programación,en este perfil de GitHub podrás ver los trabajos que estoy añadiendo a mi portfolio.
+Hola, soy Alex, una persona apasionada por la programación,en este perfil de GitHub podrás ver los trabajos que estoy añadiendo a mi porfolio.
 
-El lenguange en el que más programo es el JavaScript y Typescript, como framework para el front-end el que más uso es React pero conozco Angular, y para back el NodeJS y express aunque también conozco NestJS.
+El lenguaje en el que más programo es el JavaScript y Typescript, como framework para el front-end el que más uso es React pero conozco Angular, y para back el NodeJS y express aunque también conozco NestJS.
 
-Siempre stoy dipsuesto a colaborar en cualquier proyecto. Así como a compartiar conocimientos.
+Siempre estoy dipsuesto a colaborar en cualquier proyecto. Así como a compartir conocimientos.
 
 <hr style="margin: 15px">
 
